@@ -1,7 +1,5 @@
 
 '''
-NOTES
-
 SELECT first_name, last_name FROM users WHERE user_id = ''aaa';
 SELECT first_name, last_name FROM users WHERE user_id = '$id';
 
