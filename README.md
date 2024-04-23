@@ -1,2 +1,2 @@
 # DVWA
- - Brute Force challende [level high]
+ - Brute Force challenge [level high]
